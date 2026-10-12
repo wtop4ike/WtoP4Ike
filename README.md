@@ -1,48 +1,65 @@
 <div align="center">
 
-# WtoP4Ike
-
-### `security researcher · pwn · ctf · developer`
-
+<img src="./assets/banner.png" width="100%" alt="WtoP4Ike — sakura midnight"/>
 
 <br/>
+<br/>
 
-<a href="https://t.me/wtop4ike">
-  <img src="./assets/telegram.svg" width="48" height="48" alt="Telegram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/wtop4ike">
-  <img src="./assets/x.svg" width="48" height="48" alt="X"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://habr.com/ru/users/wtop4ike/">
-  <img src="./assets/habr.svg" width="48" height="48" alt="Habr"/>
-</a>
+<samp>security research · pwn · reverse engineering · development</samp>
+
+<br/>
+<br/>
+
+<a href="https://t.me/wtop4ike"><img src="./assets/telegram.svg" width="52" height="52" alt="Telegram"/></a>
+&nbsp;&nbsp;
+<a href="https://x.com/wtop4ike"><img src="./assets/x.svg" width="52" height="52" alt="X"/></a>
+&nbsp;&nbsp;
+<a href="https://habr.com/ru/users/wtop4ike/"><img src="./assets/habr.svg" width="52" height="52" alt="Habr"/></a>
+
+<br/>
+<br/>
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
----
+### About me
 
-## 👋 About me
+I'm a developer drawn to **cybersecurity, low-level systems, and offensive security**.
 
-I'm a developer with a strong interest in **cybersecurity, low-level systems, and offensive security**.
+I like following a program beneath the surface: through its logic, into memory, and down to the assumptions that make it work — or break.
 
-I enjoy taking systems apart, understanding how they work under the hood, and finding the assumptions that make them break.
+I explore **binary exploitation, reverse engineering, and web security**, solve CTF challenges, and build tools to make sense of what I find.
 
-My main interests are **PWN, reverse engineering, web security, CTFs, and security-oriented development**.
+<br/>
 
-```text
-learn → break → understand → build better
-```
+<div align="center">
+<img src="./assets/focus.svg" width="100%" alt="Areas of interest: PWN, reverse engineering, web security, CTF"/>
+</div>
+ 
+### Beneath the surface
 
----
+I'm curious about the gap between what software is supposed to do
+and what it can be made to do.
 
-## 🛡️ Security Focus
+Sometimes that means tracing a binary, chasing a bug through memory,
+or finding an unexpected path through an application.
+CTFs give me a place to experiment; development gives me a way
+to turn what I learn into tools.
+
+<br/>
 
 <div align="center">
 
-| 💥 PWN | 🧩 Reverse Engineering | 🌐 Web Security | 🚩 CTF |
-|:---:|:---:|:---:|:---:|
-| Binary exploitation<br/>Memory corruption<br/>ROP / heap | Binary analysis<br/>Assembly<br/>Debugging<br/>Internals | Vulnerabilities<br/>Attack surface<br/>AppSec<br/>Exploit research | PWN<br/>Reverse<br/>Web<br/>Misc / Crypto |
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+<br/>
+
+<samp>follow the logic. question the assumptions.</samp>
+
+<br/>
+<br/>
+
+<sub>Shades of pink. Curiosity for the details.</sub>
 
 </div>
