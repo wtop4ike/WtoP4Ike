@@ -58,8 +58,5 @@ to turn what I learn into tools.
 <samp>follow the logic. question the assumptions.</samp>
 
 <br/>
-<br/>
-
-<sub>Shades of pink. Curiosity for the details.</sub>
 
 </div>
